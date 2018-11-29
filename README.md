@@ -5,7 +5,7 @@
 This is a simple TTS script that can be imported and used as a module or used via command line.
 
 Should work on MacOS aswell, not tested though.
-###### `speak_linux()` depends on the `say` package which is availible via apt or brew
+###### `speak_linux()` depends on the `say` package which is available via apt or brew
 
 ### Usage
 ```sh
