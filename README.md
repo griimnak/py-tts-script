@@ -1,7 +1,6 @@
 <h1>
     Python TTS Script
 </h1>
--------------------------
 
 This is a simple TTS script that can be imported and used as a module or used via command line.
 
